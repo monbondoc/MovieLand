@@ -1,7 +1,7 @@
 {
   "name": "my_first_react_app",
   "version": "0.1.0",
-  "homepage": "https://monbondoc.github.io/react-gh-pages",
+  "homepage": "https://monbondoc.github.io/MovieLand/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
